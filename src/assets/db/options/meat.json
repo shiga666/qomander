@@ -2,7 +2,7 @@
   {
     "name": "Cordon blue",
     "picture": "/assets/images/options/meat/cordon-blue.webp",
-    "price": 20
+    "price": 2000
   },
   {
     "name": "Escalope",
@@ -17,91 +17,91 @@
   {
     "name": "Viande",
     "picture": "/assets/images/options/meat/viande-hachée.webp",
-    "price": 50
+    "price": 5000
   },
   {
     "name": "Marguez",
     "picture": "/assets/images/options/meat/marguez.webp",
-    "price": 30
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   },
   {
     "name": "Placeholder",
-    "picture": "/assets/images/logo/qomander.svg",
-    "price": 30
+    "picture": "/assets/images/logo/logo.jpg",
+    "price": 3000
   }
 ]

@@ -2,7 +2,7 @@
   {
     "name": "Camembert",
     "picture": "/assets/images/options/garnish/camembert.webp",
-    "price": 20,
+    "price": 2000,
     "selected": false
   },
   {
@@ -13,7 +13,7 @@
   {
     "name": "Oeuf",
     "picture": "/assets/images/options/garnish/oeuf.webp",
-    "price": 10
+    "price": 1000
   },
   {
     "name": "Poivron",
@@ -28,6 +28,6 @@
   {
     "name": "Tranche de gruyére",
     "picture": "/assets/images/options/garnish/tranche-de-gruyére.webp",
-    "price": 30
+    "price": 3000
   }
 ]

@@ -2,7 +2,7 @@
 <main>
   <img
     class="qomander-logo"
-    src="./assets/images/logo/qomander.svg"
+    src="./assets/images/logo/logo.jpg"
     alt="qomander"
     (click)="reset()"
   />
@@ -12,14 +12,14 @@
     </div>
     <div class="meal__name">
       <p>{{ selectedMeal.name }}</p>
-      <p class="meal__price">{{ selectedMeal.price }} DZD</p>
+      <p class="meal__price">Rp. {{ selectedMeal.price }}</p>
     </div>
   </div>
 
   <div class="selected-options">
     <p class="selected-options__heading">
       Selected options
-      <span>{{ optionsTotalPrice === 0 ? "Free" : "+ " + optionsTotalPrice + " DZD" }}</span>
+      <span>{{ optionsTotalPrice === 0 ? "Free" : "+ " + " Rp. " + optionsTotalPrice  }}</span>
     </p>
     <div class="selected-options__stack" #optionsContainer (wheel)="scrollEvent($event)">
       <div class="option" *ngFor="let option of selectedOptions">
@@ -37,10 +37,10 @@
       want to add a drink ?
     </h2>
     <div class="heading__drink" (click)="notif()">
-      <img class="heading__drink__image" src="./assets/images/categories/drinks.webp" alt="drink" />
+      <img class="heading__drink__image" src="./assets/images/categories/drinks.png" alt="drink" />
       <div>
-        <p class="heading__drink__title">Coca Cola</p>
-        <p class="heading__drink__price">70 DZD</p>
+        <p class="heading__drink__title">Choco Coffee</p>
+        <p class="heading__drink__price">Rp. 25.000</p>
       </div>
       <div class="heading__drink__circle"><span>+</span></div>
     </div>
