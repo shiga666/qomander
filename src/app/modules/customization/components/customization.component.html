@@ -10,7 +10,7 @@
     </div>
     <div class="meal__name">
       <p>{{ selectedMeal.name }}</p>
-      <p class="meal__price">{{ selectedMeal.price }} DZD</p>
+      <p class="meal__price">Rp. {{ selectedMeal.price }}</p>
     </div>
     <div class="quantity-buttons">
       <button (click)="changeSelectedMealQuantity('-')">-</button>
@@ -21,7 +21,7 @@
   <div class="selected-options" *ngIf="selectedOptions.length">
     <p class="heading">
       Selected options
-      <span>{{ optionsTotalPrice === 0 ? "Free" : "+ " + optionsTotalPrice + " DZD" }}</span>
+      <span>{{ optionsTotalPrice === 0 ? "Free" : "+ " + " Rp." + optionsTotalPrice  }}</span>
     </p>
     <div class="selected-options__stack">
       <div class="option" *ngFor="let option of selectedOptions">

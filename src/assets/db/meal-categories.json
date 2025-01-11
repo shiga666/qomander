@@ -1,12 +1,12 @@
 [
   {
-    "name": "Tacos",
-    "picture": "/assets/images/categories/tacos.webp",
+    "name": "Drinks",
+    "picture": "/assets/images/categories/drinks.webp",
     "key": "tacos"
   },
   {
-    "name": "Drinks",
-    "picture": "/assets/images/categories/drinks.png",
+    "name": "Placeholder",
+    "picture": "/assets/images/logo/logo.jpg",
     "key": "Drinks"
   },
   {

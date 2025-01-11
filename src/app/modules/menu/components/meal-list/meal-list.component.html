@@ -2,7 +2,7 @@
 <section class="main">
   <app-meal-categories></app-meal-categories>
   <section class="menu-block">
-    <h1 class="heading">What will you be eating today?</h1>
+    <h1 class="heading">What will you be drinking today?</h1>
     <div class="menu-items" #menuItems *ngIf="mealList.length; else noData">
       <ng-container *ngFor="let meal of mealList">
         <app-card
@@ -18,6 +18,6 @@
 <ng-template #noData>
   <div class="no-data">
     <img src="./assets/images/other/tom.webp" alt="tom" />
-    <h1>meeh, too busy to add more meals</h1>
+    <h1>Will add more feature in the future!</h1>
   </div>
 </ng-template>

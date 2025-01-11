@@ -1,33 +1,18 @@
 [
   {
-    "name": "Camembert",
-    "picture": "/assets/images/options/garnish/camembert.webp",
-    "price": 2000,
+    "name": "Katsu Rice",
+    "picture": "/assets/images/options/meal/rice1.png",
+    "price": 25000,
     "selected": false
   },
   {
-    "name": "Lettuce",
-    "picture": "/assets/images/options/garnish/lettuce.webp",
-    "price": 0
+    "name": "Fried Noodle",
+    "picture": "/assets/images/options/meal/rice2.jpg",
+    "price": 15000
   },
   {
-    "name": "Oeuf",
-    "picture": "/assets/images/options/garnish/oeuf.webp",
-    "price": 1000
-  },
-  {
-    "name": "Poivron",
-    "picture": "/assets/images/options/garnish/poivron.webp",
-    "price": 0
-  },
-  {
-    "name": "Tomate",
-    "picture": "/assets/images/options/garnish/tomate.webp",
-    "price": 0
-  },
-  {
-    "name": "Tranche de gruyére",
-    "picture": "/assets/images/options/garnish/tranche-de-gruyére.webp",
-    "price": 3000
+    "name": "Fried Rice",
+    "picture": "/assets/images/options/meal/rice3.png",
+    "price": 20000
   }
 ]
